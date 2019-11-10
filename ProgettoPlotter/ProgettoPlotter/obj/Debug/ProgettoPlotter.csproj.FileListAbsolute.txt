@@ -1,0 +1,27 @@
+D:\Menga Francesco\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.Properties.Resources.resources
+D:\Menga Francesco\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.csproj.GenerateResource.cache
+D:\Menga Francesco\ProgettoPlotter\ProgettoPlotter\bin\Debug\ProgettoPlotter.exe.config
+D:\Menga Francesco\ProgettoPlotter\ProgettoPlotter\bin\Debug\ProgettoPlotter.exe
+D:\Menga Francesco\ProgettoPlotter\ProgettoPlotter\bin\Debug\ProgettoPlotter.pdb
+D:\Menga Francesco\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.exe
+D:\Menga Francesco\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.pdb
+D:\Menga Francesco\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.Form1.resources
+R:\Desktop\ProgettoPlotter\ProgettoPlotter\bin\Debug\ProgettoPlotter.exe.config
+R:\Desktop\ProgettoPlotter\ProgettoPlotter\bin\Debug\ProgettoPlotter.exe
+R:\Desktop\ProgettoPlotter\ProgettoPlotter\bin\Debug\ProgettoPlotter.pdb
+R:\Desktop\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.Form1.resources
+R:\Desktop\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.Properties.Resources.resources
+R:\Desktop\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.csproj.GenerateResource.cache
+R:\Desktop\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.exe
+R:\Desktop\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.pdb
+R:\Desktop\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.csprojAssemblyReference.cache
+C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\bin\Debug\ProgettoPlotter.exe.config
+C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\bin\Debug\ProgettoPlotter.exe
+C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\bin\Debug\ProgettoPlotter.pdb
+C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.csprojAssemblyReference.cache
+C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.Form1.resources
+C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.Properties.Resources.resources
+C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.csproj.GenerateResource.cache
+C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.exe
+C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.pdb
+C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.Input.resources
