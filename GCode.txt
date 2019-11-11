@@ -1,0 +1,6 @@
+
+//Spostati a , senza disegnare
+G0 X2 Y2
+
+//Spostati a , disegnando
+G1 X2 Y2
