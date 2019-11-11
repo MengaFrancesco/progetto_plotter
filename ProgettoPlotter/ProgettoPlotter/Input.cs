@@ -19,14 +19,26 @@ namespace ProgettoPlotter
            
         }
 
+
+
+
+        //Bottone ANNULLA
         private void buttonAnnulla_Click(object sender, EventArgs e)
         {
             this.Close(); //Chiude la finestra
         }
 
+        //Bottone INSERISCI
         private void buttonInserisci_Click(object sender, EventArgs e)
         {
             this.SetVisibleCore(false);
+        }
+
+        
+        //Bottone INFO
+        private void button1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

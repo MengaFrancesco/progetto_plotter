@@ -75,14 +75,23 @@ namespace ProgettoPlotter
             picCanvas.Refresh();
 
 
+            //Controlla se la x2 esce dall'area di disegno
+            if (temp.getX2() > 363) temp.setX2(363);
+            else if (temp.getX2()<0) temp.setX2(0);
+            /* Altrimenti valore corretto */
+
+            //Controlla se la y2 esce dall'area di disegno
+            if (temp.getY2() > 270) temp.setY2(270);
+            else if (temp.getY2() < 0) temp.setY2(0);
+            /* Altrimenti valore corretto */
+
+
             vettore.push(temp); //Inserisce linea nel vettore
+            numLinee++;         //Incrementa numero linee
 
-            temp = new CLinea();
+            visualizzaLista();  //Aggiorna la lista
 
-            numLinee++; //Incrementa numero linee
-
-            visualizzaLista(); //Aggiorna la lista
-
+            temp = new CLinea(); //Inizializza prossima linea
         }
 
         // Disegna i segmenti

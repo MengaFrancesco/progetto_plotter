@@ -25,3 +25,5 @@ C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlott
 C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.exe
 C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.pdb
 C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.Input.resources
+D:\Menga Francesco\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.csprojAssemblyReference.cache
+D:\Menga Francesco\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.Input.resources
