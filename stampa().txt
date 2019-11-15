@@ -1,0 +1,18 @@
+//Invia sulla seriale le informazioni per stampare
+
+private void stampa()
+        {
+            if (COM.IsOpen) //Se è collegato alla seriale
+            {
+                foreach (Segment segment in Segments) //Per ogni linea da disegnare (foreach=per ogni)
+                {
+                    String spostati = "G0 X" + segment.Point1.X + " Y" + segment.Point1.Y; //G0 X1 Y1
+                    COM.Write(spostati); //Scrive sulla serial
+
+                    String disegna = "G1 X" + segment.Point2.X + " Y" + segment.Point2.Y;  //G1 X2 Y2
+                    COM.Write(disegna); //Scrive sulla serial  
+                }
+            }
+            else
+                visualizzaMessaggioInfo("Non sei collegato a nessuna porta seriale");
+        }
