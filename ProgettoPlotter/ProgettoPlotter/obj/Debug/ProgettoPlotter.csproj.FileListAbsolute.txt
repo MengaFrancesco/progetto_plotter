@@ -1,30 +1,48 @@
-D:\Menga Francesco\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.Properties.Resources.resources
-D:\Menga Francesco\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.csproj.GenerateResource.cache
-D:\Menga Francesco\ProgettoPlotter\ProgettoPlotter\bin\Debug\ProgettoPlotter.exe.config
-D:\Menga Francesco\ProgettoPlotter\ProgettoPlotter\bin\Debug\ProgettoPlotter.exe
-D:\Menga Francesco\ProgettoPlotter\ProgettoPlotter\bin\Debug\ProgettoPlotter.pdb
-D:\Menga Francesco\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.exe
-D:\Menga Francesco\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.pdb
-D:\Menga Francesco\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.Form1.resources
-R:\Desktop\ProgettoPlotter\ProgettoPlotter\bin\Debug\ProgettoPlotter.exe.config
-R:\Desktop\ProgettoPlotter\ProgettoPlotter\bin\Debug\ProgettoPlotter.exe
-R:\Desktop\ProgettoPlotter\ProgettoPlotter\bin\Debug\ProgettoPlotter.pdb
-R:\Desktop\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.Form1.resources
-R:\Desktop\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.Properties.Resources.resources
-R:\Desktop\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.csproj.GenerateResource.cache
-R:\Desktop\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.exe
-R:\Desktop\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.pdb
-R:\Desktop\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.csprojAssemblyReference.cache
-D:\Menga Francesco\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.csprojAssemblyReference.cache
-D:\Menga Francesco\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.Input.resources
+C:\Users\stefa\Desktop\ProgettoPlotter\ProgettoPlotter\bin\Debug\ProgettoPlotter.exe.config
+C:\Users\stefa\Desktop\ProgettoPlotter\ProgettoPlotter\bin\Debug\ProgettoPlotter.exe
+C:\Users\stefa\Desktop\ProgettoPlotter\ProgettoPlotter\bin\Debug\ProgettoPlotter.pdb
+C:\Users\stefa\Desktop\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.csprojAssemblyReference.cache
+C:\Users\stefa\Desktop\ProgettoPlotter\ProgettoPlotter\obj\Debug\MainWindow.g.cs
+C:\Users\stefa\Desktop\ProgettoPlotter\ProgettoPlotter\obj\Debug\App.g.cs
+C:\Users\stefa\Desktop\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter_MarkupCompile.cache
+C:\Users\stefa\Desktop\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter_MarkupCompile.lref
+C:\Users\stefa\Desktop\ProgettoPlotter\ProgettoPlotter\obj\Debug\MainWindow.baml
+C:\Users\stefa\Desktop\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.g.resources
+C:\Users\stefa\Desktop\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.Properties.Resources.resources
+C:\Users\stefa\Desktop\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.csproj.GenerateResource.cache
+C:\Users\stefa\Desktop\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.exe
+C:\Users\stefa\Desktop\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.pdb
+C:\Users\stefa\Desktop\ProgettoPlotter\ProgettoPlotter\obj\Debug\Classes\LinesDialog.g.cs
+C:\Users\stefa\Desktop\ProgettoPlotter\ProgettoPlotter\obj\Debug\Classes\LinesDialog.baml
+E:\Menga Francesco\Sistemi\ProgettoPlotter\ProgettoPlotter\bin\Debug\ProgettoPlotter.exe.config
+E:\Menga Francesco\Sistemi\ProgettoPlotter\ProgettoPlotter\bin\Debug\ProgettoPlotter.exe
+E:\Menga Francesco\Sistemi\ProgettoPlotter\ProgettoPlotter\bin\Debug\ProgettoPlotter.pdb
+E:\Menga Francesco\Sistemi\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.csprojAssemblyReference.cache
+E:\Menga Francesco\Sistemi\ProgettoPlotter\ProgettoPlotter\obj\Debug\Classes\LinesDialog.g.cs
+E:\Menga Francesco\Sistemi\ProgettoPlotter\ProgettoPlotter\obj\Debug\MainWindow.g.cs
+E:\Menga Francesco\Sistemi\ProgettoPlotter\ProgettoPlotter\obj\Debug\App.g.cs
+E:\Menga Francesco\Sistemi\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter_MarkupCompile.cache
+E:\Menga Francesco\Sistemi\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter_MarkupCompile.lref
+E:\Menga Francesco\Sistemi\ProgettoPlotter\ProgettoPlotter\obj\Debug\Classes\LinesDialog.baml
+E:\Menga Francesco\Sistemi\ProgettoPlotter\ProgettoPlotter\obj\Debug\MainWindow.baml
+E:\Menga Francesco\Sistemi\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.g.resources
+E:\Menga Francesco\Sistemi\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.Properties.Resources.resources
+E:\Menga Francesco\Sistemi\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.csproj.GenerateResource.cache
+E:\Menga Francesco\Sistemi\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.exe
+E:\Menga Francesco\Sistemi\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.pdb
+C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.csprojAssemblyReference.cache
+C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\MainWindow.g.cs
+C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\App.g.cs
+C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter_MarkupCompile.cache
+C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter_MarkupCompile.lref
+C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.exe
+C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.pdb
 C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\bin\Debug\ProgettoPlotter.exe.config
 C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\bin\Debug\ProgettoPlotter.exe
 C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\bin\Debug\ProgettoPlotter.pdb
-C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.Input.resources
+C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\MainWindow.baml
+C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.g.resources
 C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.Properties.Resources.resources
 C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.csproj.GenerateResource.cache
-C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.exe
-C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.pdb
-C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.FinestraPrincipale.resources
-C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.Interfacce.FinestraStampa.resources
-C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\ProgettoPlotter.csprojAssemblyReference.cache
+C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\LinesDialog.g.cs
+C:\Users\stefa\Downloads\ProgettoPlotter\ProgettoPlotter\obj\Debug\LinesDialog.baml
