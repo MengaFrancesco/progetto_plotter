@@ -28,26 +28,18 @@ void loop() {
     value1 = Serial.read();
     int Y = (int)value0+(int)value1;
 
-    /* DEBUG */
-    Serial.print(X);
-    Serial.print(Y);
     
     if(op=='0')
-    {} /* Spostamento... */
+      spostati(X,Y);
     else 
-    {} /* Spostamento con penna abbassata.. */
+      disegna(X,Y);
     
   }
   else if(op=='2')
   {
     int X=0;
     int Y=0;
-
-    /* DEBUG */
-    Serial.print(X);
-    Serial.print(Y);
-    
-    /* Spostamento.... */
+    spostati(X,Y);
   }
 
   
